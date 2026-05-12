@@ -68,4 +68,4 @@ const sum = studentRecord.grades.reduce((a, b) => a + b, 0);
 const average = sum / studentRecord.grades.length;
 console.log(`   average: ${average}`);
 
-console.log('\nDone.\n')
+console.log('\nDone.\n');
